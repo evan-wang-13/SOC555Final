@@ -1,2 +1,5 @@
-Beyond $R^2$: Re-Examining the Impact of Fragile Families Challenge
-Models
+## Evaluating Predictive Models for Collaborative
+Prediction Tasks: A Follow-up On the Fragile Families
+Challenge
+
+SOC 555 Final Project by Richard Li and Evan Wang
